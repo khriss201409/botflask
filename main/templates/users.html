@@ -3,7 +3,7 @@
 {% block title %}Usuarios Registrados{% endblock %}
 
 {% block content %}
-<div class="container-fluid mt-4">
+<div class="container">
     <h2 class="text-center">Usuarios Registrados</h2>
 
 
@@ -45,13 +45,13 @@
                                 data-id="{{ usuario.id }}" 
                                 data-username="{{ usuario.username }}" 
                                 data-email="{{ usuario.email }}">
-                                <i class="fas fa-edit"></i> Editar
+                                <i class="fas fa-edit"></i>
                         </button>
         
                         <!-- Botón para eliminar -->
                         <button class="btn btn-danger btn-sm eliminar-btn" 
                                 data-id="{{ usuario.id }}">
-                                <i class="fas fa-trash"></i> Eliminar
+                                <i class="fas fa-trash"></i>
                         </button>
                     </td>
                 </tr>
