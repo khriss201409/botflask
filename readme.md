@@ -30,7 +30,7 @@ El archivo está dentro de main. Puedes modificar las credenciales.
 #### Cómo ejecutar el proyecto
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/khrissmorales/botflask.git
+   git clone https://github.com/khriss201409/botflask.git
 
 #### Instalar librerías utilizadas
 1. Cualquier persona que clone el repositorio necesita ejecutar para el proyecto:
@@ -38,5 +38,4 @@ El archivo está dentro de main. Puedes modificar las credenciales.
     pip install -r requirements.txt
 
 #### 📞 Contacto
-🔗 [LinkedIn](https://www.linkedin.com/in/cristofer-castro-arias-b23455350)  
-📧 [Email](mailto:khriss201403@gmail.com)
+📧 [Email](mailto:khriss201409@hotmail.com)
